@@ -6,7 +6,7 @@ import javax.swing.JFrame;
 
 /**
  *
- * @author 91740
+ * @author yogendra singh
  */
 public class Main
 {
